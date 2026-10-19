@@ -41,6 +41,7 @@ Older link formats still work, including legacy `/e/.../listen` URLs and `unders
 - Paste or enter a link manually.
 - Pick a language from an event-wide QR code.
 - Save favorite channels and reopen them from the home screen.
+- Save a whole event from its language list. A saved event opens its channel list, and any of its channels you also saved show inside it as one-tap shortcuts.
 - Password-protected listener channels (verify with the event listener password, then reconnect with a saved session).
 - Low-latency WebRTC (LiveKit) playback with HLS fallback when the server provides it.
 - Android media notification controls for play, pause, and mute.
